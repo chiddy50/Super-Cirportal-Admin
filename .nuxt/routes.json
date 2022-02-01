@@ -1,0 +1,681 @@
+[
+  {
+    "name": "calendar",
+    "path": "/calendar",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\calendar\\\\index.vue",
+    "chunkName": "pages/calendar/index",
+    "_name": "_1a316062"
+  },
+  {
+    "name": "chat",
+    "path": "/chat",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\chat\\\\index.vue",
+    "chunkName": "pages/chat/index",
+    "_name": "_b29081f0"
+  },
+  {
+    "name": "account-forgot-password",
+    "path": "/account/forgot-password",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\account\\\\forgot-password.vue",
+    "chunkName": "pages/account/forgot-password",
+    "_name": "_1248004c"
+  },
+  {
+    "name": "account-login",
+    "path": "/account/login",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\account\\\\login.vue",
+    "chunkName": "pages/account/login",
+    "_name": "_2bd5037e"
+  },
+  {
+    "name": "account-register",
+    "path": "/account/register",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\account\\\\register.vue",
+    "chunkName": "pages/account/register",
+    "_name": "_f01b06c4"
+  },
+  {
+    "name": "auth-lock-screen",
+    "path": "/auth/lock-screen",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\auth\\\\lock-screen.vue",
+    "chunkName": "pages/auth/lock-screen",
+    "_name": "_f1490e98"
+  },
+  {
+    "name": "auth-login-1",
+    "path": "/auth/login-1",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\auth\\\\login-1.vue",
+    "chunkName": "pages/auth/login-1",
+    "_name": "_8f33b09a"
+  },
+  {
+    "name": "auth-recoverpwd",
+    "path": "/auth/recoverpwd",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\auth\\\\recoverpwd.vue",
+    "chunkName": "pages/auth/recoverpwd",
+    "_name": "_260979e3"
+  },
+  {
+    "name": "auth-register",
+    "path": "/auth/register",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\auth\\\\register.vue",
+    "chunkName": "pages/auth/register",
+    "_name": "_7d98e6a6"
+  },
+  {
+    "name": "auth-register-1",
+    "path": "/auth/register-1",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\auth\\\\register-1.vue",
+    "chunkName": "pages/auth/register-1",
+    "_name": "_3ce1ef11"
+  },
+  {
+    "name": "calendar-data-calendar",
+    "path": "/calendar/data-calendar",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\calendar\\\\data-calendar.js",
+    "chunkName": "pages/calendar/data-calendar",
+    "_name": "_caf50944"
+  },
+  {
+    "name": "charts-apex",
+    "path": "/charts/apex",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\charts\\\\apex\\\\index.vue",
+    "chunkName": "pages/charts/apex/index",
+    "_name": "_609805c9"
+  },
+  {
+    "name": "charts-chartist",
+    "path": "/charts/chartist",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\charts\\\\chartist\\\\index.vue",
+    "chunkName": "pages/charts/chartist/index",
+    "_name": "_2d21383f"
+  },
+  {
+    "name": "charts-chartjs",
+    "path": "/charts/chartjs",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\charts\\\\chartjs\\\\index.vue",
+    "chunkName": "pages/charts/chartjs/index",
+    "_name": "_544243fc"
+  },
+  {
+    "name": "charts-echart",
+    "path": "/charts/echart",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\charts\\\\echart\\\\index.vue",
+    "chunkName": "pages/charts/echart/index",
+    "_name": "_6ecff3b2"
+  },
+  {
+    "name": "chat-data",
+    "path": "/chat/data",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\chat\\\\data.js",
+    "chunkName": "pages/chat/data",
+    "_name": "_0cec43aa"
+  },
+  {
+    "name": "contacts-grid",
+    "path": "/contacts/grid",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\contacts\\\\grid.vue",
+    "chunkName": "pages/contacts/grid",
+    "_name": "_2d1b1cbb"
+  },
+  {
+    "name": "contacts-list",
+    "path": "/contacts/list",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\contacts\\\\list.vue",
+    "chunkName": "pages/contacts/list",
+    "_name": "_6a5ad613"
+  },
+  {
+    "name": "contacts-profile",
+    "path": "/contacts/profile",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\contacts\\\\profile.vue",
+    "chunkName": "pages/contacts/profile",
+    "_name": "_aafbb678"
+  },
+  {
+    "name": "ecommerce-add-product",
+    "path": "/ecommerce/add-product",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\ecommerce\\\\add-product.vue",
+    "chunkName": "pages/ecommerce/add-product",
+    "_name": "_3fa46236"
+  },
+  {
+    "name": "ecommerce-cart",
+    "path": "/ecommerce/cart",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\ecommerce\\\\cart.vue",
+    "chunkName": "pages/ecommerce/cart",
+    "_name": "_44a99224"
+  },
+  {
+    "name": "ecommerce-checkout",
+    "path": "/ecommerce/checkout",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\ecommerce\\\\checkout.vue",
+    "chunkName": "pages/ecommerce/checkout",
+    "_name": "_377afb14"
+  },
+  {
+    "name": "ecommerce-customers",
+    "path": "/ecommerce/customers",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\ecommerce\\\\customers.vue",
+    "chunkName": "pages/ecommerce/customers",
+    "_name": "_a70c9612"
+  },
+  {
+    "name": "ecommerce-data-products",
+    "path": "/ecommerce/data-products",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\ecommerce\\\\data-products.js",
+    "chunkName": "pages/ecommerce/data-products",
+    "_name": "_14c093a6"
+  },
+  {
+    "name": "ecommerce-orders",
+    "path": "/ecommerce/orders",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\ecommerce\\\\orders.vue",
+    "chunkName": "pages/ecommerce/orders",
+    "_name": "_17a73eb3"
+  },
+  {
+    "name": "ecommerce-products",
+    "path": "/ecommerce/products",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\ecommerce\\\\products.vue",
+    "chunkName": "pages/ecommerce/products",
+    "_name": "_1dd04032"
+  },
+  {
+    "name": "ecommerce-shops",
+    "path": "/ecommerce/shops",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\ecommerce\\\\shops.vue",
+    "chunkName": "pages/ecommerce/shops",
+    "_name": "_51505ddf"
+  },
+  {
+    "name": "email-data-inbox",
+    "path": "/email/data-inbox",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\email\\\\data-inbox.js",
+    "chunkName": "pages/email/data-inbox",
+    "_name": "_02386dbc"
+  },
+  {
+    "name": "email-inbox",
+    "path": "/email/inbox",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\email\\\\inbox.vue",
+    "chunkName": "pages/email/inbox",
+    "_name": "_07c49dcc"
+  },
+  {
+    "name": "email-sidepanel",
+    "path": "/email/sidepanel",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\email\\\\sidepanel.vue",
+    "chunkName": "pages/email/sidepanel",
+    "_name": "_4cac43d3"
+  },
+  {
+    "name": "email-toolbar",
+    "path": "/email/toolbar",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\email\\\\toolbar.vue",
+    "chunkName": "pages/email/toolbar",
+    "_name": "_c4255e7e"
+  },
+  {
+    "name": "form-advanced",
+    "path": "/form/advanced",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\form\\\\advanced.vue",
+    "chunkName": "pages/form/advanced",
+    "_name": "_85890670"
+  },
+  {
+    "name": "form-editor",
+    "path": "/form/editor",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\form\\\\editor.vue",
+    "chunkName": "pages/form/editor",
+    "_name": "_3d6e0413"
+  },
+  {
+    "name": "form-elements",
+    "path": "/form/elements",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\form\\\\elements.vue",
+    "chunkName": "pages/form/elements",
+    "_name": "_123b39c6"
+  },
+  {
+    "name": "form-mask",
+    "path": "/form/mask",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\form\\\\mask.vue",
+    "chunkName": "pages/form/mask",
+    "_name": "_792e5d92"
+  },
+  {
+    "name": "form-repeater",
+    "path": "/form/repeater",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\form\\\\repeater.vue",
+    "chunkName": "pages/form/repeater",
+    "_name": "_ac359da4"
+  },
+  {
+    "name": "form-upload",
+    "path": "/form/upload",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\form\\\\upload.vue",
+    "chunkName": "pages/form/upload",
+    "_name": "_e894f2b2"
+  },
+  {
+    "name": "form-validation",
+    "path": "/form/validation",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\form\\\\validation.vue",
+    "chunkName": "pages/form/validation",
+    "_name": "_4bd0ce1f"
+  },
+  {
+    "name": "form-wizard",
+    "path": "/form/wizard",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\form\\\\wizard.vue",
+    "chunkName": "pages/form/wizard",
+    "_name": "_4d24f911"
+  },
+  {
+    "name": "icons-boxicons",
+    "path": "/icons/boxicons",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\icons\\\\boxicons.vue",
+    "chunkName": "pages/icons/boxicons",
+    "_name": "_f11ce052"
+  },
+  {
+    "name": "icons-data-fontawesome",
+    "path": "/icons/data-fontawesome",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\icons\\\\data-fontawesome.js",
+    "chunkName": "pages/icons/data-fontawesome",
+    "_name": "_38c73236"
+  },
+  {
+    "name": "icons-data-material",
+    "path": "/icons/data-material",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\icons\\\\data-material.js",
+    "chunkName": "pages/icons/data-material",
+    "_name": "_07ea6b46"
+  },
+  {
+    "name": "icons-dripicons",
+    "path": "/icons/dripicons",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\icons\\\\dripicons.vue",
+    "chunkName": "pages/icons/dripicons",
+    "_name": "_1a8d278d"
+  },
+  {
+    "name": "icons-fontawesome",
+    "path": "/icons/fontawesome",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\icons\\\\fontawesome.vue",
+    "chunkName": "pages/icons/fontawesome",
+    "_name": "_79036988"
+  },
+  {
+    "name": "icons-materialdesign",
+    "path": "/icons/materialdesign",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\icons\\\\materialdesign.vue",
+    "chunkName": "pages/icons/materialdesign",
+    "_name": "_29c2ea4d"
+  },
+  {
+    "name": "icons-unicons",
+    "path": "/icons/unicons",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\icons\\\\unicons.vue",
+    "chunkName": "pages/icons/unicons",
+    "_name": "_13ea13a9"
+  },
+  {
+    "name": "invoices-detail",
+    "path": "/invoices/detail",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\invoices\\\\detail.vue",
+    "chunkName": "pages/invoices/detail",
+    "_name": "_2c5aa719"
+  },
+  {
+    "name": "invoices-list",
+    "path": "/invoices/list",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\invoices\\\\list.vue",
+    "chunkName": "pages/invoices/list",
+    "_name": "_c8308634"
+  },
+  {
+    "name": "maps-google",
+    "path": "/maps/google",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\maps\\\\google.vue",
+    "chunkName": "pages/maps/google",
+    "_name": "_5305d032"
+  },
+  {
+    "name": "maps-leaflet",
+    "path": "/maps/leaflet",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\maps\\\\leaflet\\\\index.vue",
+    "chunkName": "pages/maps/leaflet/index",
+    "_name": "_7eef0bae"
+  },
+  {
+    "name": "tables-advanced",
+    "path": "/tables/advanced",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\tables\\\\advanced.vue",
+    "chunkName": "pages/tables/advanced",
+    "_name": "_91cd13ae"
+  },
+  {
+    "name": "tables-basic",
+    "path": "/tables/basic",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\tables\\\\basic.vue",
+    "chunkName": "pages/tables/basic",
+    "_name": "_3cbb71b7"
+  },
+  {
+    "name": "tables-dataAdvancedtable",
+    "path": "/tables/dataAdvancedtable",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\tables\\\\dataAdvancedtable.js",
+    "chunkName": "pages/tables/dataAdvancedtable",
+    "_name": "_559966c4"
+  },
+  {
+    "name": "ui-alerts",
+    "path": "/ui/alerts",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\ui\\\\alerts.vue",
+    "chunkName": "pages/ui/alerts",
+    "_name": "_3c7996e6"
+  },
+  {
+    "name": "ui-buttons",
+    "path": "/ui/buttons",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\ui\\\\buttons.vue",
+    "chunkName": "pages/ui/buttons",
+    "_name": "_16f3bb0a"
+  },
+  {
+    "name": "ui-cards",
+    "path": "/ui/cards",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\ui\\\\cards.vue",
+    "chunkName": "pages/ui/cards",
+    "_name": "_14234c46"
+  },
+  {
+    "name": "ui-carousel",
+    "path": "/ui/carousel",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\ui\\\\carousel.vue",
+    "chunkName": "pages/ui/carousel",
+    "_name": "_d157b154"
+  },
+  {
+    "name": "ui-colors",
+    "path": "/ui/colors",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\ui\\\\colors.vue",
+    "chunkName": "pages/ui/colors",
+    "_name": "_87a18a34"
+  },
+  {
+    "name": "ui-dropdown",
+    "path": "/ui/dropdown",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\ui\\\\dropdown.vue",
+    "chunkName": "pages/ui/dropdown",
+    "_name": "_c2376cf2"
+  },
+  {
+    "name": "ui-general",
+    "path": "/ui/general",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\ui\\\\general.vue",
+    "chunkName": "pages/ui/general",
+    "_name": "_de893f3c"
+  },
+  {
+    "name": "ui-grid",
+    "path": "/ui/grid",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\ui\\\\grid.vue",
+    "chunkName": "pages/ui/grid",
+    "_name": "_1c0d6588"
+  },
+  {
+    "name": "ui-images",
+    "path": "/ui/images",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\ui\\\\images.vue",
+    "chunkName": "pages/ui/images",
+    "_name": "_19513bee"
+  },
+  {
+    "name": "ui-lightbox",
+    "path": "/ui/lightbox",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\ui\\\\lightbox.vue",
+    "chunkName": "pages/ui/lightbox",
+    "_name": "_1d401c6b"
+  },
+  {
+    "name": "ui-modals",
+    "path": "/ui/modals",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\ui\\\\modals.vue",
+    "chunkName": "pages/ui/modals",
+    "_name": "_192feddc"
+  },
+  {
+    "name": "ui-placeholder",
+    "path": "/ui/placeholder",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\ui\\\\placeholder.vue",
+    "chunkName": "pages/ui/placeholder",
+    "_name": "_64385e6d"
+  },
+  {
+    "name": "ui-progressbar",
+    "path": "/ui/progressbar",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\ui\\\\progressbar.vue",
+    "chunkName": "pages/ui/progressbar",
+    "_name": "_43b6e640"
+  },
+  {
+    "name": "ui-rangeslider",
+    "path": "/ui/rangeslider",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\ui\\\\rangeslider.vue",
+    "chunkName": "pages/ui/rangeslider",
+    "_name": "_298c7bd8"
+  },
+  {
+    "name": "ui-rating",
+    "path": "/ui/rating",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\ui\\\\rating.vue",
+    "chunkName": "pages/ui/rating",
+    "_name": "_2a335eda"
+  },
+  {
+    "name": "ui-sweet-alert",
+    "path": "/ui/sweet-alert",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\ui\\\\sweet-alert.vue",
+    "chunkName": "pages/ui/sweet-alert",
+    "_name": "_e8a3298e"
+  },
+  {
+    "name": "ui-tabs-accordions",
+    "path": "/ui/tabs-accordions",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\ui\\\\tabs-accordions.vue",
+    "chunkName": "pages/ui/tabs-accordions",
+    "_name": "_7431a358"
+  },
+  {
+    "name": "ui-typography",
+    "path": "/ui/typography",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\ui\\\\typography.vue",
+    "chunkName": "pages/ui/typography",
+    "_name": "_06565c25"
+  },
+  {
+    "name": "ui-video",
+    "path": "/ui/video",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\ui\\\\video.vue",
+    "chunkName": "pages/ui/video",
+    "_name": "_52f13af5"
+  },
+  {
+    "name": "utility-404",
+    "path": "/utility/404",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\utility\\\\404.vue",
+    "chunkName": "pages/utility/404",
+    "_name": "_351a68ae"
+  },
+  {
+    "name": "utility-500",
+    "path": "/utility/500",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\utility\\\\500.vue",
+    "chunkName": "pages/utility/500",
+    "_name": "_69c845eb"
+  },
+  {
+    "name": "utility-comingsoon",
+    "path": "/utility/comingsoon",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\utility\\\\comingsoon.vue",
+    "chunkName": "pages/utility/comingsoon",
+    "_name": "_b8600514"
+  },
+  {
+    "name": "utility-faqs",
+    "path": "/utility/faqs",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\utility\\\\faqs.vue",
+    "chunkName": "pages/utility/faqs",
+    "_name": "_44020717"
+  },
+  {
+    "name": "utility-maintenance",
+    "path": "/utility/maintenance",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\utility\\\\maintenance.vue",
+    "chunkName": "pages/utility/maintenance",
+    "_name": "_276a6f09"
+  },
+  {
+    "name": "utility-pricing",
+    "path": "/utility/pricing",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\utility\\\\pricing.vue",
+    "chunkName": "pages/utility/pricing",
+    "_name": "_341ca93c"
+  },
+  {
+    "name": "utility-starter",
+    "path": "/utility/starter",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\utility\\\\starter.vue",
+    "chunkName": "pages/utility/starter",
+    "_name": "_f2e084f6"
+  },
+  {
+    "name": "utility-timeline",
+    "path": "/utility/timeline",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\utility\\\\timeline.vue",
+    "chunkName": "pages/utility/timeline",
+    "_name": "_69e0103b"
+  },
+  {
+    "name": "charts-apex-data",
+    "path": "/charts/apex/data",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\charts\\\\apex\\\\data.js",
+    "chunkName": "pages/charts/apex/data",
+    "_name": "_249ee12c"
+  },
+  {
+    "name": "charts-chartist-data",
+    "path": "/charts/chartist/data",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\charts\\\\chartist\\\\data.js",
+    "chunkName": "pages/charts/chartist/data",
+    "_name": "_98c38dbc"
+  },
+  {
+    "name": "charts-chartjs-BarChart",
+    "path": "/charts/chartjs/BarChart",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\charts\\\\chartjs\\\\BarChart.vue",
+    "chunkName": "pages/charts/chartjs/BarChart",
+    "_name": "_4e5fc62b"
+  },
+  {
+    "name": "charts-chartjs-DonutChart",
+    "path": "/charts/chartjs/DonutChart",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\charts\\\\chartjs\\\\DonutChart.vue",
+    "chunkName": "pages/charts/chartjs/DonutChart",
+    "_name": "_f4ae9c08"
+  },
+  {
+    "name": "charts-chartjs-LineChart",
+    "path": "/charts/chartjs/LineChart",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\charts\\\\chartjs\\\\LineChart.vue",
+    "chunkName": "pages/charts/chartjs/LineChart",
+    "_name": "_10bced5a"
+  },
+  {
+    "name": "charts-chartjs-PieChart",
+    "path": "/charts/chartjs/PieChart",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\charts\\\\chartjs\\\\PieChart.vue",
+    "chunkName": "pages/charts/chartjs/PieChart",
+    "_name": "_0cfcae5c"
+  },
+  {
+    "name": "charts-chartjs-PolarChart",
+    "path": "/charts/chartjs/PolarChart",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\charts\\\\chartjs\\\\PolarChart.vue",
+    "chunkName": "pages/charts/chartjs/PolarChart",
+    "_name": "_fb8bfd40"
+  },
+  {
+    "name": "charts-chartjs-RadarChart",
+    "path": "/charts/chartjs/RadarChart",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\charts\\\\chartjs\\\\RadarChart.vue",
+    "chunkName": "pages/charts/chartjs/RadarChart",
+    "_name": "_0583e2d0"
+  },
+  {
+    "name": "charts-echart-data",
+    "path": "/charts/echart/data",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\charts\\\\echart\\\\data.js",
+    "chunkName": "pages/charts/echart/data",
+    "_name": "_409b3555"
+  },
+  {
+    "name": "maps-leaflet-basic",
+    "path": "/maps/leaflet/basic",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\maps\\\\leaflet\\\\basic.vue",
+    "chunkName": "pages/maps/leaflet/basic",
+    "_name": "_49c9a90a"
+  },
+  {
+    "name": "maps-leaflet-boundary",
+    "path": "/maps/leaflet/boundary",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\maps\\\\leaflet\\\\boundary.vue",
+    "chunkName": "pages/maps/leaflet/boundary",
+    "_name": "_c0345404"
+  },
+  {
+    "name": "maps-leaflet-geometry",
+    "path": "/maps/leaflet/geometry",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\maps\\\\leaflet\\\\geometry.vue",
+    "chunkName": "pages/maps/leaflet/geometry",
+    "_name": "_072cdb74"
+  },
+  {
+    "name": "maps-leaflet-icons",
+    "path": "/maps/leaflet/icons",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\maps\\\\leaflet\\\\icons.vue",
+    "chunkName": "pages/maps/leaflet/icons",
+    "_name": "_5d3bd1f6"
+  },
+  {
+    "name": "maps-leaflet-markers",
+    "path": "/maps/leaflet/markers",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\maps\\\\leaflet\\\\markers.vue",
+    "chunkName": "pages/maps/leaflet/markers",
+    "_name": "_7ce0e9d5"
+  },
+  {
+    "name": "ecommerce-product-detail-id",
+    "path": "/ecommerce/product-detail/:id?",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\ecommerce\\\\product-detail\\\\_id.vue",
+    "chunkName": "pages/ecommerce/product-detail/_id",
+    "_name": "_5c1d91cd"
+  },
+  {
+    "name": "email-reademail-id",
+    "path": "/email/reademail/:id?",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\email\\\\reademail\\\\_id.vue",
+    "chunkName": "pages/email/reademail/_id",
+    "_name": "_770362de"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\work\\\\Cirportal\\\\Admin\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_0181f540"
+  }
+]
